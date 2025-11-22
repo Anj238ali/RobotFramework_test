@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Reports
+reports/*.html
+reports/*.json
+reports/screenshots/*.png
+reports/allure-results/
+reports/allure-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# WebDriver
+*.exe
+chromedriver
+geckodriver
