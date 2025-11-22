@@ -1,4 +1,4 @@
-# SauceDemo Automation Framework
+# SauceDemo Automation
 
 ## PREREQUISITE
 
